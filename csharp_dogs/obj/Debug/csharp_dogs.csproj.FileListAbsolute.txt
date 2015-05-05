@@ -1,0 +1,6 @@
+c:\users\brittney\documents\visual studio 2013\Projects\csharp_dogs\csharp_dogs\bin\Debug\csharp_dogs.exe.config
+c:\users\brittney\documents\visual studio 2013\Projects\csharp_dogs\csharp_dogs\obj\Debug\csharp_dogs.csprojResolveAssemblyReference.cache
+c:\users\brittney\documents\visual studio 2013\Projects\csharp_dogs\csharp_dogs\bin\Debug\csharp_dogs.exe
+c:\users\brittney\documents\visual studio 2013\Projects\csharp_dogs\csharp_dogs\bin\Debug\csharp_dogs.pdb
+c:\users\brittney\documents\visual studio 2013\Projects\csharp_dogs\csharp_dogs\obj\Debug\csharp_dogs.exe
+c:\users\brittney\documents\visual studio 2013\Projects\csharp_dogs\csharp_dogs\obj\Debug\csharp_dogs.pdb
